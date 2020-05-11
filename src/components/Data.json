@@ -1,0 +1,33 @@
+[
+    {
+        "id" :1,
+        "name": "Pacific Rim",
+        "tel": "012835853",
+        "permission": "1"
+    },
+
+    {
+        "id" :2,
+        "name": "Hoang Tran",
+        "tel": "012336348",
+        "permission": "2"
+    },
+    {
+        "id" :3,
+        "name": "Trinh Doan",
+        "tel": "012835212",
+        "permission": "3"
+    },
+    {
+        "id" :4,
+        "name": "Khoai Ga",
+        "tel": "012835853",
+        "permission": "2"
+    },
+    {
+        "id" :5,
+        "name": "Trinh Hoang",
+        "tel": "012125853",
+        "permission": "4"
+    }
+]
